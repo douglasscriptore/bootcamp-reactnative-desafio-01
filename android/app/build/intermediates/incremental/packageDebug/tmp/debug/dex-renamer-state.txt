@@ -1,0 +1,4 @@
+#Wed Jul 22 13:51:47 BRT 2020
+base.0=/media/douglas/79A2942D20D2AF67/_DEVELOPMENT/_BOOTCAMP_V2/reactnative_conceitos/bootcamp-reactnative-desafio-01/android/app/build/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
